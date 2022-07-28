@@ -36,7 +36,7 @@
 	&kp ESC   &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp NUMBER_4 &kp NUMBER_5                  &kp NUMBER_6 &kp NUMBER_7  &kp NUMBER_8     &kp NUMBER_9   &kp NUMBER_0    &kp BSLH
 	&kp TAB   &kp HASH &kp DOLLAR &kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS &kp GRAVE                &kp LEFT &kp DOWN  &kp UP     &kp RIGHT   &kp PERCENT &kp SINGLE_QUOTE
 	&kp LSHFT &bt BT_NXT &bt BT_CLR &kp ESC &bt BT_SEL 1 &bt BT_SEL 2 &kp HOME &kp LSHFT                                &kp LSHFT &kp END &kp AMPERSAND &kp EQUAL  &kp COMMA &kp DOT &kp FSLH &kp MINUS
-	                 &kp LGUI &kp DEL &kp LALT &lt LOWER SPACE &kp RET        &kp RET  &lt RAISE SPACE  &kp TAB &kp BSPC &kp RALT
+	                 &kp LGUI &kp DEL &kp RET &kp SEMICOLON &kp EQUAL        &kp EQUAL  &kp SPACE  &kp TAB &kp BSPC &kp RALT
 			>;
 		};
 	};
